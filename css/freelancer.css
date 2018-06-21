@@ -503,3 +503,13 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+.tutorials {
+  background: white
+}
+.tutorials h2{
+  color: black
+}
+.tutorials p{
+  color: black
+}
+
